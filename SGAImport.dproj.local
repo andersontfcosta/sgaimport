@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/28 11:26:46.000.408,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/28 11:43:19.000.926,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uImportaCSV.dfm</Transaction>
+    <Transaction>2021/09/28 11:43:19.000.926,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uImportaCSV.pas</Transaction>
+    <Transaction>2021/09/28 11:43:31.000.166,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\ArquivosTecnico\Programa\Delphi\SGAImport\SGAImport.dproj</Transaction>
+    <Transaction>2021/09/28 14:44:33.000.328,=D:\ArquivosTecnico\Programa\Delphi\SGAImport\Unit1.pas</Transaction>
+    <Transaction>2021/09/28 14:44:43.000.284,D:\ArquivosTecnico\Programa\Delphi\SGAImport\Unit1.pas=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uConexao.pas</Transaction>
+    <Transaction>2021/09/28 14:45:07.000.230,D:\ArquivosTecnico\Programa\Delphi\SGAImport\uConexao.pas=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uClasse.Conexao.pas</Transaction>
+    <Transaction>2021/09/28 15:11:14.000.050,=D:\ArquivosTecnico\Programa\Delphi\SGAImport\Unit1.pas</Transaction>
+    <Transaction>2021/09/28 15:13:24.000.888,D:\ArquivosTecnico\Programa\Delphi\SGAImport\Unit1.dfm=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uDMConexao.dfm</Transaction>
+    <Transaction>2021/09/28 15:13:24.000.888,D:\ArquivosTecnico\Programa\Delphi\SGAImport\Unit1.pas=D:\ArquivosTecnico\Programa\Delphi\SGAImport\uDMConexao.pas</Transaction>
+    <Transaction>2021/09/29 08:31:20.000.841,=D:\ArquivosTecnico\Programa\Delphi\vSICOM\View\View.uFrmMessage.pas</Transaction>
+    <Transaction>2021/09/29 08:34:04.000.312,=D:\ArquivosTecnico\Programa\Delphi\vSICOM\Utils\Utils.Funcoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
